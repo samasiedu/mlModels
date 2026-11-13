@@ -1,4 +1,4 @@
-# CEE 902: Machine Learning for Engineering Applications
+# Machine Learning for Engineering Applications
 
 Cleaned and documented Jupyter notebooks from the CEE 902 in-class exercises. Each notebook implements one supervised learning method, with the mathematics stated alongside the code and the results interpreted at the end.
 
